@@ -1,4 +1,4 @@
-# Individual Assignment
+# Individual Assignment - Joshua
 
 ## Member
 
@@ -23,7 +23,7 @@ Many students struggle with:
 
 We have N features and M requirements.
 
-Link: [Features & Requirements Details](link-to-features-doc)
+Link: [Features & Requirements Details](docs/features/overall.md)
 
 ### Non-Functional Requirements
 
@@ -34,13 +34,15 @@ Link: [Features & Requirements Details](link-to-features-doc)
 
 ...
 
-Link: [Data Model Diagram](link-to-data-model)
+Link: [Data Model Diagram](docs/architecture/data_model.md)
 
 ## Architecture
 
+[Insert architecture diagram here]
+
 ...
 
-Link: [Architecture Diagram](link-to-architecture-diagram)
+Link: [Architecture Diagram](docs/architecture/)
 
 ## Tests
 
@@ -48,24 +50,25 @@ Link: [Architecture Diagram](link-to-architecture-diagram)
 
 - ...
 
-Link: [Acceptance Tests](link-to-acceptance-tests)
+Link: [Acceptance Tests](tests/acceptance_tests/)
 
 ### Integration Tests
 
 - ...
 
-Link: [Integration Tests](link-to-integration-tests)
+Link: [Integration Tests](tests/integration_tests/)
 
 ### E2E Tests
 
 - ...
 
-Link: [E2E Tests](link-to-e2e-tests)
+Link: [E2E Tests](tests/e2e_tests/)
 
 ## Project Documentation
 
-- [Project Plan Presentation (PPP)](link-to-ppp)
-- [Individual Contributions](link-to-individual-contributions)
+- [Project Plan Presentation (PPP)](docs/presentation/ppp.md)
+- [Individual Contributions - Joshua](individual/joshua/progress.md)
+- [Weekly Reports](docs/weekly_report/)
 
 ## Schedule & Milestones
 
@@ -79,4 +82,4 @@ Link: [E2E Tests](link-to-e2e-tests)
 - ...
 - ...
 
-Link: [Detailed Schedule](link-to-schedule)
+Link: [Detailed Schedule](docs/requirements/)
